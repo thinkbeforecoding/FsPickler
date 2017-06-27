@@ -199,7 +199,7 @@ Target "Release" DoNothing
 
 "Build"
   ==> "Build.Net40"
-  ==> "Build.Net35"
+//   ==> "Build.Net35"
   ==> "PrepareRelease"
   ==> "GenerateDocs"
   ==> "ReleaseDocs"
